@@ -1,6 +1,6 @@
 # UTS Deep Learning — Google Colab
 
-Folder ini disusun mengikuti komponen pengumpulan UTS dan dapat dipakai sebagai isi repository GitHub kelompok. Dataset tidak disertakan.
+Folder ini disusun mengikuti komponen pengumpulan UTS dan dapat dipakai sebagai isi repository GitHub kelompok. Dataset tidak disertakan karna berada d gdrive.
 
 ## Menjalankan ulang di Colab
 
